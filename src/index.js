@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import './AdditionalFiles/index.css';
+import YourSolution from './Solution/YourSolution';
+import reportWebVitals from './AdditionalFiles/reportWebVitals';
+import {mockFetch} from "./AdditionalFiles/mockFetch";
+
+window.fetch = mockFetch;
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <YourSolution />
   </React.StrictMode>,
   document.getElementById('root')
 );
