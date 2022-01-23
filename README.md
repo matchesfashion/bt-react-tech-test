@@ -1,18 +1,18 @@
-#Matchesfashion React Coding Challenge
+# Matchesfashion React Coding Challenge
 
-#Running the application
+## Running the application
 Firstly, run npm install to install the dependencies required for this project.
 
 This application was made using create-react-app, and so to run the solution, simply use `npm start` in
 your terminal. The scripts can be found at the bottom of this readme.
 
-#Introduction
+## Introduction
 The test is broken up into a series of steps which will be displayed in the next section. 
 We ask that you don't use any other packages or libraries, and just implement the code using 
 React. To fetch the data, please **ONLY USE FETCH**. The fetch function has been mocked, so you do 
 not require internet access to complete this challenge.
 
-#The Problem
+## The Problem
 Your solution is to be completed within the folder 
 > src/Solution/YourSolution.js
 
@@ -38,10 +38,10 @@ product: {
 } 
 ```
 
-##Example Implementation
+### Example Implementation
 To see an example of the implementation, go to the following url: https://stunning-eureka-1d016a47.pages.github.io/
 
-#Your Task
+## Your Task
 You are **not** required to complete any CSS or to worry about the look/style of the app. 
 
 1. Your first task is to fetch the data for the first page `0` and display the contents of the product within the `table`
@@ -62,7 +62,7 @@ in the `YourSolution.js` file (please ensure to place it within the `tbody` tags
         - this button should take you to the last page available of the table
         - it should be disabled if the current page is the last page
 
-###Bonus Task
+### Bonus Task
 The bonus task is to add a new field to the table headers called `Profit after Tax`. After this, you are required
 to calculate the total profit for each product in the table. Below is the calculation for this
    ```
@@ -81,7 +81,7 @@ to calculate the total profit for each product in the table. Below is the calcul
 You can use the `ProfitAlgorithm.spec.js` file to test your calculations if it helps.
    
 
-#On Completion
+## On Completion
 When you have completed the task, please zip the folder and send it to your Matchesfashion representative
 
 ## Available Scripts
