@@ -18,7 +18,7 @@ export const products = [{
     brand: "Chloe",
     costToBusiness: 150.53,
     id: 2,
-    name: "boring skirt",
+    name: "boring shirt",
 
     quantitySold: 100,
     soldPrice: 386.82
@@ -26,7 +26,7 @@ export const products = [{
     brand: "Alexander McQueen",
     costToBusiness: 43.7,
     id: 3,
-    name: "filthy skirt",
+    name: "funky shirt",
 
     quantitySold: 113,
     soldPrice: 747.42
@@ -34,7 +34,7 @@ export const products = [{
     brand: "Bottega Veneta",
     costToBusiness: 198.57,
     id: 4,
-    name: "one heels",
+    name: "flat heels",
 
     quantitySold: 63,
     soldPrice: 722.63
@@ -58,7 +58,7 @@ export const products = [{
     brand: "Bottega Veneta",
     costToBusiness: 109.73,
     id: 7,
-    name: "befitting skirt",
+    name: "befitting shirt",
 
     quantitySold: 106,
     soldPrice: 456.02
@@ -90,7 +90,7 @@ export const products = [{
     brand: "Chloe",
     costToBusiness: 83.85,
     id: 11,
-    name: "cheerful skirt",
+    name: "cheerful shirt",
 
     quantitySold: 27,
     soldPrice: 71.47
@@ -98,7 +98,7 @@ export const products = [{
     brand: "Bottega Veneta",
     costToBusiness: 34.71,
     id: 12,
-    name: "noiseless skirt",
+    name: "noiseless shirt",
 
     quantitySold: 51,
     soldPrice: 563.27
@@ -202,7 +202,7 @@ export const products = [{
     brand: "Chloe",
     costToBusiness: 51.46,
     id: 25,
-    name: "lean skirt",
+    name: "lean shirt",
 
     quantitySold: 14,
     soldPrice: 422.41
@@ -234,7 +234,7 @@ export const products = [{
     brand: "Chloe",
     costToBusiness: 166.82,
     id: 29,
-    name: "enchanted skirt",
+    name: "enchanted shirt",
 
     quantitySold: 48,
     soldPrice: 63.04
@@ -298,7 +298,7 @@ export const products = [{
     brand: "Bottega Veneta",
     costToBusiness: 28.62,
     id: 37,
-    name: "filthy dress",
+    name: "funky dress",
 
     quantitySold: 38,
     soldPrice: 416.72
@@ -314,7 +314,7 @@ export const products = [{
     brand: "Alexander McQueen",
     costToBusiness: 195.75,
     id: 39,
-    name: "animated skirt",
+    name: "animated shirt",
 
     quantitySold: 34,
     soldPrice: 528.1
@@ -386,7 +386,7 @@ export const products = [{
     brand: "Gucci",
     costToBusiness: 191.51,
     id: 48,
-    name: "obtainable skirt",
+    name: "obtainable shirt",
 
     quantitySold: 101,
     soldPrice: 498.85
