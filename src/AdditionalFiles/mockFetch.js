@@ -15,6 +15,6 @@ export const mockFetch = async (...args) => {
     return {
         ok: true,
         status: 200,
-        json: () => ({products: Promise.resolve(pages.get(page)), count: products.length})
+        json: () => Promise.resolve({products: pages.get(page), count: products.length})
     };
 }
