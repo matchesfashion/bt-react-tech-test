@@ -39,7 +39,7 @@ product: {
 ```
 
 ### Example Implementation
-To see an example of the implementation, go to the following url: https://stunning-eureka-1d016a47.pages.github.io/
+To see an example of the implementation, go to the following url: [https://stunning-eureka-1d016a47.pages.github.io/](https://matchesfashion.github.io/bt-react-tech-test/)
 
 ## Your Task
 You are **not** required to complete any CSS or to worry about the look/style of the app. 
